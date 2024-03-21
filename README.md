@@ -1,8 +1,7 @@
  https://raabin10.github.io/spotify_clone/
 
 
-# frontend-project-1
-Spotify-clone 
+# Spotify-clone 
 
 
 This project is a responsive clone of Spotify's online application built with HTML and CSS.Without using any pre-made CSS frameworks like Bootstrap,
